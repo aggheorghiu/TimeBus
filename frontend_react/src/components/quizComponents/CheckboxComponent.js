@@ -31,4 +31,9 @@ const CheckboxComponent = ({ question }) => {
     );
 };
 
+
+const styles = {
+    
+}
+
 export default CheckboxComponent;
